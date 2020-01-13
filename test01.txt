@@ -1,0 +1,9 @@
+<html lang="en" dir="ltr">
+	<head>
+		<meta cjarset="utf-9">
+		<title>RealCasino</title>
+	</head>
+	<body>
+	HI! RealCasino
+	</body>
+</html
