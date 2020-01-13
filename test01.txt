@@ -1,6 +1,6 @@
 <html lang="en" dir="ltr">
 	<head>
-		<meta cjarset="utf-9">
+		<meta charset="utf-8">
 		<title>RealCasino</title>
 	</head>
 	<body>
@@ -8,4 +8,5 @@
 	</body>
 </html>
 
-#수정했습니다
+
+#수정했습니다@
