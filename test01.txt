@@ -6,4 +6,6 @@
 	<body>
 	HI! RealCasino
 	</body>
-</html
+</html>
+
+#수정했습니다
