@@ -7,6 +7,10 @@
 	HI! RealCasino
 	</body>
 </html>
+<<<<<<< HEAD
 
 
 #수정했습니다2@
+=======
+한글확인
+>>>>>>> 4c19c2cb00d2a832cfcde13ec8757ff44dc829d4
