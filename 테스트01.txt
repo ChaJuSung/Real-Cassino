@@ -1,4 +1,4 @@
-<html lang="en" dir="ltr">
+ï»¿<html lang="en" dir="ltr">
 	<head>
 		<meta charset="utf-8">
 		<title>RealCasino</title>
@@ -9,4 +9,4 @@
 </html>
 
 
-#¼öÁ¤Çß½À´Ï´Ù2@
+#ìˆ˜ì •í–ˆìŠµë‹ˆë‹¤2@
